@@ -1,6 +1,6 @@
 {
     "name": "imicros-queue",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Andreas Leinen <andreas.leinen@imicros.de> (www.imicros.de)",
     "license": "MIT",
     "description": "Moleculer service for persistent queue handling",
@@ -36,9 +36,9 @@
       "persitent queue"
     ],
     "devDependencies": {
-      "jest": "^27.4.7",
+      "jest": "^27.5.1",
       "moleculer": "^0.14.19",
-      "nats": "^2.5.0"
+      "nats": "^2.6.1"
     },
     "dependencies": {
       "cassandra-driver": "^4.6.3",
